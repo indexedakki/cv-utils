@@ -1,0 +1,53 @@
+resume_summarizer_task:
+  description: >
+    Summarize the json which contains all information about a candidate
+  expected_output: >
+    Output should look like this-
+    "Output should be PLAIN TEXT, do not use BOLD or any other styles, every section should be seprated by new line."
+    "You should always start with Candidate Name for the summary, like given below i.e. Rahul Sajwan Professional Summary: "
+    
+    Personal Details:
+    Candidate unique identifier: 93a4a6bf-8c01-40fd-84e6-b3495069b605
+    Candidate Name: Rahul Sajwan
+    Location: Dehradun, India
+    Email: rahul.sajwan.10@gmail.com
+    Phone: +91-8410529357
+    LinkedIn: www.linkedin.com/in/rahul-sajwan-898b7186
+    Total Experience: 7 years 11 months
+    Top 10 skills: Azure Data Factory, Synapse Analytics, ETL, Data Pipelines, SQL, Python, Data Warehousing, Data Modeling, Agile Methodologies, Quality Assurance
+
+    Rahul Sajwan Professional Summary:
+    Builds and optimizes data pipelines and ETL workflows using Azure Data Factory and Synapse Analytics.
+    Designs dynamic data flows, fact/dimension schemas and stored-procedure business logic.
+    Background in quality assurance, process improvement and cross-functional audits in manufacturing.
+
+    Rahul Sajwan Work Experience:
+    Globaltek Prosolutions (Data Engineer : Feb 2023-Present):
+    Developed ADF pipelines (copy, lookup, IF-condition, ForEach, stored-procedure activities).
+    Built dynamic data set components and triggered scheduled pipelines.
+    Created external tables, dimension & fact tables in Synapse; wrote business logic procedures.
+    Skills used- Azure Data Factory, Synapse Analytics, ETL, Data Pipelines
+    Shiv Shakti Prints & Fabrics (QA Engineer : Mar 2017–Jan 2023):
+    Audited supplier quality processes and compliance.
+    Verified manufacturing and quality plans for new products.
+    Managed in-process quality issues, check-sheet development, record control and inspection data analysis.
+    Skills used- Quality Assurance, Process Improvement, Cross-Functional Audits
+
+    Rahul Sajwan Notable Projects:
+    5G Network Monitoring & CX Analytics: Scalable ETL for Verizon 5G performance insights.
+    Financial Monitoring & AML: Rules- and AI-based pipeline triggering high-risk alerts.
+    Loan Risk Assessment (Lending Club): Data pipelines & models to predict defaults and optimize lending.
+
+    Rahul Sajwan Education:
+    B.Tech in Electronics & Communication Engineering, Uttaranchal Institute of Technology, Dehradun (2013)
+
+    Rahul Sajwan Achievement:
+    Secured AIR 6078 in GATE 2015
+
+    Rahul Sajwan Certifications:
+    Microsoft Certified: Azure Data Engineer Associate (DP-203)
+
+    Rahul Sajwan Career Gap:
+    No career gap
+
+  agent: resume_summarizer_agent

@@ -1,0 +1,7 @@
+.env
+__pycache__/
+test.ipynb
+.venv/
+uploads/
+test.py
+main2.py

@@ -1,0 +1,30 @@
+{
+    "Personal_Details": {
+        "Name": "",
+        "Role": "",
+        "Email": "NA",
+        "Phone": [],
+        "Nationality": "NA",
+        "LinkedIn": "NA",
+        "url": "NA",
+        "location": "NA",
+        "candidate_unique_id": "788c7841-a909-4d5b-99a7-e595c41b867d"
+    },
+    "skillset": {
+        "Key_Skills": [],
+        "Technical_Skills": [],
+        "Optional_Skills": [],
+        "Soft_Skills": [],
+        "top_10_skills": []
+    },
+    "Experience_year": 0,
+    "Professional_Experience": [],
+    "Education": [],
+    "Projects": [],
+    "Achievements": [],
+    "Certification": [],
+    "Extra_Activities": [],
+    "Professional_Summary": [],
+    "avg_duration_in_company": [],
+    "career_gap": []
+}

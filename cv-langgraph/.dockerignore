@@ -1,0 +1,6 @@
+.venv
+__pycache__
+.env
+main2.py 
+test.ipynb
+logs

@@ -1,0 +1,42 @@
+2025-07-10 14:54:39 [INFO] intent_decision_node: Starting FastAPI application...
+2025-07-10 14:54:52 [INFO] intent_decision_node: User Query---->: hello
+2025-07-10 14:54:52 [INFO] intent_decision_node: LLM Intent Detected---->: genric
+2025-07-10 14:58:45 [INFO] intent_decision_node: Starting FastAPI application...
+2025-07-10 14:58:50 [INFO] intent_decision_node: User Query : hello
+2025-07-10 14:58:50 [INFO] intent_decision_node: LLM Intent Detected : genric
+2025-07-10 14:58:51 [INFO] query_embeddings_node: Entering Store chunks results
+2025-07-10 15:00:17 [INFO] intent_decision_node: Starting FastAPI application...
+2025-07-10 15:00:23 [INFO] intent_decision_node: User Query : hi
+2025-07-10 15:00:23 [INFO] intent_decision_node: LLM Intent Detected : genric
+2025-07-10 15:00:24 [INFO] query_embeddings_node: Entering Store chunks results
+2025-07-10 15:04:41 [INFO] intent_decision_node: Starting FastAPI application...
+2025-07-10 15:04:52 [INFO] intent_decision_node: User Query : hello
+2025-07-10 15:04:52 [INFO] intent_decision_node: LLM Intent Detected : genric
+2025-07-10 15:04:53 [INFO] query_embeddings_node: Entering Store chunks results
+2025-07-10 15:04:57 [INFO] final_response_node: Bot Response---->:Hello! How can I assist you today?
+2025-07-10 15:05:08 [INFO] intent_decision_node: User Query : 9 + years of experience with azure and sql
+2025-07-10 15:05:08 [INFO] intent_decision_node: LLM Intent Detected : new_question
+2025-07-10 15:05:09 [INFO] query_embeddings_node: Entering Store chunks results
+2025-07-10 15:05:23 [INFO] final_response_node: Bot Response---->:The user query is asking for candidates with 9 or more years of experience with Azure and SQL. Here are the top 3 candidates that match the criteria:
+
+1. Mahesh M: He has 9 years of experience and his skills include Azure Data Factory, Azure Databricks, and SQL. He is currently working at Medi assist TPA Pvt Ltd. You can contact him at Maheshcnhmelh@gmail.com or 9380944574.
+
+2. AMARESH MOHANTA: He has 10 years of experience and his skills include ADF (Azure Data Factory), Azure Synapse Analytics, and SQL Server database (SSMS). He is currently working at ICICI Bank Ltd. You can contact him at amareshmohanta22@gmail.com or 8884736463.
+
+3. UMESHA JM: He has 18 years of experience and his skills include Azure Solutions and AWS Solutions. He is currently working at Cognizant Technology Solutions. You can contact him at umeshgowda@gmail.com or 9844531398.
+2025-07-10 15:05:40 [INFO] intent_decision_node: User Query : work experience of AMARESH 
+2025-07-10 15:05:40 [INFO] intent_decision_node: LLM Intent Detected : "follow_up"
+2025-07-10 15:05:41 [INFO] query_embeddings_node: Entering Store chunks results
+2025-07-10 15:05:52 [INFO] final_response_node: Bot Response---->:The work experience of AMARESH MOHANTA includes:
+
+1. ICICI Bank Ltd. (Role: Azure Data Engineer, Duration: 1 month): Worked on Azure Data Engineering tasks and focused on quality, safety, and innovation.
+   
+2. TCS - TATA Consultancy Services (Role: Lead Data Engineer, Duration: 35 months): Development and support for cloud-based applications, customization of data pipelines with ETL concepts, data integration, transformation, orchestration, and validation.
+   
+3. TCS - TATA Consultancy Services (Role: Product Design Engineer, Duration: 29 months): Product design and development.
+   
+4. TCS - TATA Consultancy Services (Role: Product Design Engineer, Duration: 31 months): Product design and development.
+   
+5. ROBERT BOSCH (Role: Product Design Engineer, Duration: 10 months): Product design and development.
+   
+6. TE Connectivity (Role: Product Design Engineer, Duration: 15 months): Product design and development.
