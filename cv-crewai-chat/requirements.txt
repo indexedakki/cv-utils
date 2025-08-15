@@ -1,0 +1,6 @@
+crewai[tools]==0.85.0
+pylint>=3.3.7
+setuptools>=60.0.0
+azure-storage-blob>=12.25.0
+azure-identity>=1.22.0
+pymupdf>=1.26.1

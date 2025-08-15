@@ -1,0 +1,15 @@
+Personal Details: Candidate unique identifier: 440c20f2-9d9f-44b7-ba55-ed1d8cd26f58 Candidate Name: BALAMURUGAN Location: Chennai, India Email: baladeva6010@gmail.com Phone: 9092884571 LinkedIn: NA Total Experience: 8+ years Top 10 skills: Azure Data Factory, SQL, PySpark, Data Warehousing, ETL Processes, Data Transformation, Data Quality Checks, Machine Learning, Power BI, Azure SQL Database
+
+BALAMURUGAN Professional Summary: Total experience 8+ years and in relevant IT experience of 4+ years in implementation of Data warehousing projects in Cloud & on-prem platforms using Microsoft Business Intelligence tools. Adept at transforming raw data into actionable insights through advanced ETL processes and real-time analytics.
+
+BALAMURUGAN Work Experience: Teleperformance Pvt Ltd (Azure Data Engineer : Jan 2024-Oct 2024): Built data pipelines using Azure Data Factory, automated data ingestion workflows, created and maintained database objects, and developed and optimized ETL pipelines. Skills used- Azure Data Factory, Azure SQL Server, PySpark, Databricks, SQL Motifworks Pvt Ltd (Azure Data Engineer : Aug 2022–Jun 2023): Designed and implemented end-to-end data pipelines, integrated data from various sources, monitored and troubleshooted data pipelines. Skills used- Azure Data Factory, Azure Synapse Analytics, Power BI Bny Mellon (Intermediate Representative : Sep 2016–Sep 2022): Developed and managed data pipelines, collaborated with data scientists, optimized data storage and security protocols. Skills used- SQL Server, Oracle, APIs, Azure Synapse Analytics
+
+BALAMURUGAN Notable Projects: EverBank: Implementation of data warehousing projects in Cloud & on-prem platforms. Built scalable and high-performance data pipelines. Skills used- Azure Data Factory, SQL Server, ETL Processes Arvest Bank: Design and implement end-to-end data pipelines. Integrated data from various sources. Skills used- Azure Data Factory, Power BI IRA Quality Control: Analysis of transactional information to identify risks. Quality check and review of high dollar transactions. Skills used- Data Analysis, SQL
+
+BALAMURUGAN Education: Master of Business Administration, DG VAISHNAV COLLEGE (2013 - 2015) Bachelor of Commerce, DG VAISHNAV COLLEGE (2009 - 2012)
+
+BALAMURUGAN Achievement: None listed
+
+BALAMURUGAN Certifications: None listed
+
+BALAMURUGAN Career Gap: 7 months gap between Motifworks Pvt Ltd and Teleperformance Pvt Ltd

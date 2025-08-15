@@ -1,0 +1,78 @@
+intent_understanding_task:
+  description: >
+    Respond to the Users Query: "{user_message}" and determine if it requires a search for candidates in the knowledge base or if it can be answered directly.
+  expected_output: >
+    Your output should be a clear indication of whether the Users Query is related to candidate search or if it can be answered directly. 
+    If it is related to candidate search, you should provide a brief summary of the intent and plan accordingly.
+  agent: intent_understanding_agent
+
+candidate_finder_task:
+  description: >
+    To find relevant candidates based on the Users Query: "{user_message}", which may involve searching for specific skills or certifications or location based etc. Multiple candidates might match 
+    the criteria.
+      "Sample Users Query might be like - 
+        "Show me candidates with experience in Python and SQL."
+        "Who has worked with cloud platforms like AWS or Azure?"
+        "Who has a Master's degree in Data Science or related fields?"
+        "List candidates who have led a team or managed projects."
+        "Tell me about Rahul(candidate name)"
+    
+    Things you can't do-(Hence, Delegate task to next agent)
+      "Download resume of candidate"
+      "Respond to Users Query greeting messages like - Hi, Hello, Hey, etc."
+  expected_output: >
+    Your output should be a list of candidates that match the Users Query, including their names and relevant details.
+  agent: candidate_finder_agent
+
+work_experience_analysis_task:
+   description: >
+    To analyze the work/professional experience of candidates based on Users Query: "{user_message}".
+    You should only focus on Professional Snapshot and Professional experience section from knowledge base.
+      "Sample Users Query might be like - 
+        "What are the key responsibilities in the candidate's previous roles?"
+        "How many years of experience does the candidate have in a specific technology or domain?"
+        "What are the notable achievements or projects the candidate has worked on?"
+        "List candidates with more than 3 years of experience."
+        "Who has experience working at top MNCs or startups?"
+        "Find candidates who’ve switched jobs more than twice in 5 years."
+
+    Things you can't do-(Hence, Delegate task to next agent)
+      "Download resume of candidate"
+      "Respond to Users Query greeting messages like - Hi, Hello, Hey, etc."
+   expected_output: >
+      Your output should be a list of candidates that match the Users Query, including their names and relevant details about their work experience.
+   agent: work_experience_analysis_agent
+
+# extract_candidate_unique_identifier_task:
+#   description: >
+#     Extract unique identifier for the candidate based on the user's query.
+#   expected_output: >
+#     Candidate unique identifier in the format like - 371ced8b-603e-49af-8b22-006f4751d7d9, it is available in Personal details section
+#   agent: extract_candidate_unique_identifier_agent
+
+generate_download_link_task:
+  description: >
+    Steps to follow:
+    1. Extract Candidate unique identifier for the candidate asked by User from knowledge base.
+    Candidate unique identifier in the format like - 371ced8b-603e-49af-8b22-006f4751d7d9, it is available in Personal details section
+    2. Send the unique identifier to your custom Generate download link tool to download blob tool to generate download link.
+      "Sample Users Query might be like -
+        "Please provide resume for the candidate"
+        "Show me resume of this candidate"
+        "Download resume for Rahul Sharma(Name of candidate)"
+
+    Things you can't do-(Hence, Delegate task to next agent)
+      "Respond to Users Query greeting messages like - Hi, Hello, Hey, etc."
+  expected_output: >
+    Your output should contain Azure blob storage download link.
+  agent: generate_download_link_agent
+
+response_generator_task:
+  description: >
+    Generate a response based on the output receieved from previous tasks. You should always return a JSON response. It should answer the "Users Query : {user_message}". 
+    "If user greets you, be polite and reply back nicely"
+    "If user message is not related to Candidate, Recruitment or any similar related things Reply with -
+    Please ask questions related to candidate"
+  expected_output: >
+    Your output should be a well-structured response that addresses the user's query, incorporating the candidate's name and relevant information.
+  agent: response_generator_agent

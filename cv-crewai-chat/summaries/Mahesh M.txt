@@ -1,0 +1,30 @@
+Personal Details: 
+Candidate unique identifier: 9e4f63db-1199-4649-816f-98480eb0e8ab 
+Candidate Name: Mahesh M 
+Location: Bengaluru, India 
+Email: Maheshcnhmelh@gmail.com 
+Phone: +91-9380944574 
+LinkedIn: NA 
+Total Experience: 9 years 
+Top 10 skills: Azure Data Factory, Azure Databricks, SQL, Python, Data Ingestion, Data Analysis, Big Data Processing, Data Visualization, Database Administration, Debugging
+
+Mahesh M Professional Summary: 
+9 Plus years of overall experience which includes 7+ Years of experience in azure cloud, BigData, Data Ingestions, azure data factor, Azure Databricks, Azure functions, Azure KeyVaults, Azure Logic Apps, Azure Data Lake Storage, Azure Synapse etc. Good analytical, debugging & problem-solving skills. Has the ability to work with a team or as an individual. Customer-focused, highly organized self-starter with effective customer-service skills. Handled multiple project requests at a time and having good experience in multi-vendor and multicultural environments.
+
+Mahesh M Work Experience: 
+Medi assist TPA Pvt Ltd. (Team Lead : Aug 2021-Present): Implementing delta tables in Databricks, establishing connections between different source systems, creating pipelines and linked services, maintaining MX_Framework and applying logic on built queries, working on validation part (DQ Checks), troubleshooting and fixing bugs. Skills used- Azure Data Factory, Azure DataBricks, Azure SQL DB, Python 
+
+Namdhari Agro Fresh Pvt Ltd. (Sr. Executive : May 2020–Aug 2021): Creating new pipeline for extracting data from different sources, processing big data on Apache Spark, loading data from source system to Azure Data Warehouse using ADF and ADB, built a supplier recommendation engine on Databricks, creating confluence documents and data modeling. Skills used- Azure Data Factory, Azure DataBricks, Synapse Analytics, Azure SQL DB
+
+ADD Technology (Senior Analyst : Sep 2019–May 2020): Created single source of truth for multiple data sources, created end to end ADF pipeline, developed logic App for alerts mechanism, worked directly with clients for business understanding. Skills used- Azure Data Factory, Azure SQL DB
+
+R. Shashidhara & Co. (Article Sheep : Jan 2016–Jun 2018): Generating scripts and deploying to other environments, conducted internal audits, prepared and reviewed working papers, supported senior auditors in client interactions. Skills used- SSMS, Oracle DB
+
+EXL Services Pvt Ltd. (Executive : Dec 2013–Oct 2015): Maintaining SQL Databases, creating necessary tables and establishing relationships, optimizing SQL codes, assisting new joiners in development activities. Skills used- SQL Developer, SSMS
+
+Mahesh M Education: 
+MFA, Bangalore University (2011 - 2013)
+
+Mahesh M Career Gap: 
+3 months gap between EXL Services Pvt Ltd. and R. Shashidhara & Co. 
+15 months gap between R. Shashidhara & Co. and ADD Technology

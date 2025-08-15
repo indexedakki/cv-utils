@@ -1,0 +1,15 @@
+Personal Details: Candidate unique identifier: 4d9582c5-64de-4fc1-b431-35b49d185bd4 Candidate Name: Abhijit Mallick Location: NA Email: abhijit01.mallick@gmail.com Phone: 9836044813 LinkedIn: NA Total Experience: 6 Years 4 Months Top 10 skills: Python, Django REST Framework, Flask, FastAPI, PostgreSQL, AWS, Docker, CI/CD, Data Processing, OOP
+
+Abhijit Mallick Professional Summary: Python Developer with 5 years of experience building scalable and efficient backend systems using Django, Flask and REST APIs. Proficient in cloud integrations, data processing and micro-services architecture with strong problem-solving skills. Experienced in working with cross-functional teams to deliver robust solutions for enterprise clients.
+
+Abhijit Mallick Work Experience: Wipro Ltd. (Python Developer: Aug 2018-Oct 2023): Built scalable and efficient backend systems using Django, Flask, and REST APIs. Developed optimized crew scheduling models and training solutions. Enhanced security through validator implementation. Participated in the entire application life-cycle, focusing on coding and debugging. Developed scalable modular software packages for various applications. Skills used- Python, Django REST framework, PostgreSQL, Flask, CPLEX, AWS, CI/CD
+
+Abhijit Mallick Notable Projects: Product development using Data Science: Optimized solutions for the aviation industry. Developed models like crew scheduling, bidding, and training. Skills involved- Python, Flask, Pandas, Numpy, CPLEX, PostgreSQL Backend development: Developed Wipro Holmes - Training Studio for ML model building. Built a robust ML prototyping platform on Django REST. Skills involved- Python, Django REST framework, PostgreSQL Web Application development: Developed tele-communication applications for client recordings. Developed scalable modules and packages for ETL operations. Skills involved- Elixir, Phoenix framework, AWS S3, AWS SQS, Linux, GIT Web Application development and support maintenance: Managed workflows and processes end-to-end. Performed data parsing and normalization using Regex. Skills involved- Python, UNIX, Shell
+
+Abhijit Mallick Education: Bachelor of Technology in Information Technology, West Bengal University of Technology (03/2014 – 07/2018)
+
+Abhijit Mallick Achievements: None listed
+
+Abhijit Mallick Certifications: None listed
+
+Abhijit Mallick Career Gap: No career gap

@@ -1,0 +1,35 @@
+Personal Details: 
+Candidate unique identifier: 3a79c090-613b-4ccd-8213-48904dab684f 
+Candidate Name: AMARESH MOHANTA 
+Location: Bangalore, INDIA 
+Email: amareshmohanta22@gmail.com 
+Phone: 8884736463 
+LinkedIn: https://www.linkedin.com/in/amaresh-mohanta-7721196b 
+Total Experience: 7 years 
+
+Top 10 skills: ADF (Azure Data Factory), Azure Synapse Analytics, SQL Server database (SSMS), ETL, Azure Data Lake (ADLS), Power BI, Azure Data Bricks (ADB), CI/CD process, Data Engineering, Data Visualization
+
+AMARESH MOHANTA Professional Summary: 
+Experienced Azure Data Engineer with 3+ years of hands-on expertise in Azure cloud technology and services. Professional experience of 7 years in other domains and technologies.
+
+AMARESH MOHANTA Work Experience: 
+ICICI Bank Ltd. (Azure Data Engineer: Dec 2024-Jan 2025): Worked on Azure Data Engineering projects with a focus on quality, safety, and innovation.
+
+TCS - TATA Consultancy Services (Lead Data Engineer: Nov 2021-Oct 2024): Involved in the development and support for cloud-based applications, customization of data pipelines with ETL concepts, and data integration, transformation, orchestration, and validation. Worked with Medallion architecture of data layers and has knowledge on DevOps CI-CD process and source control. Skills used- ADF (Azure Data Factory), Azure Synapse Analytics, Azure Data Lake (ADLS), Azure SQL DB, Azure Key-Vault, Power Apps.
+
+TCS - TATA Consultancy Services (Product Design Engineer: May 2019-Oct 2021): Focused on product design and development.
+
+TCS - TATA Consultancy Services (Product Design Engineer: Sep 2016-Apr 2019): Involved in product design and development.
+
+ROBERT BOSCH (Product Design Engineer: Jul 2015-May 2016): Engaged in product design and development.
+
+TE Connectivity (Product Design Engineer: Apr 2014-Jul 2015): Contributed to product design and development.
+
+AMARESH MOHANTA Education: 
+B-Tech from BALASORE COLLEGE OF ENGINEERING & TECHNOLOGY (2008 - 2012) 
+12TH from JUPITER +2 SCIENCE COLLEGE (2006 - 2008) 
+10TH from RAGHUNATH HIGH SCHOOL (2003 - 2006)
+
+AMARESH MOHANTA Career Gap: 
+A 4-month gap between ROBERT BOSCH and TCS - TATA Consultancy Services. 
+A 2-month gap between TCS - TATA Consultancy Services and ICICI Bank Ltd.
